@@ -1,0 +1,7 @@
+name: Cosmetics
+main: net.altarise.cm.Cosmetics
+version: SNAPSHOT
+author: Baxymoz
+#depend:
+#  - AltariseCore
+commands:
